@@ -19,7 +19,7 @@ public class TestDataBuild {
 		p.setPhone_number("(+91) 983 893 3937");
 		p.setWebsite("https://rahulshettyacademy.com");
 		p.setName(name);
-		List<String> myList =new ArrayList<String>();
+		List<String> myList =new ArrayList<>();
 		myList.add("shoe park");
 		myList.add("shop");
 
