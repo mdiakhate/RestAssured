@@ -1,4 +1,4 @@
-package pojo;
+package main.java.pojo;
 
 public class Location {
 private double lat;
